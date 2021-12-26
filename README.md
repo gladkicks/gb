@@ -1,2 +1,2 @@
 # gb
-geekbrains
+import this
